@@ -1,2 +1,2 @@
 # lab6_rl
-Laboratorio 6 - Reinforcment Learning
+Laboratorio 6 - Reinforcement Learning
